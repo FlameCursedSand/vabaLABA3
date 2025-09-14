@@ -1,0 +1,7 @@
+D:\VScsharpiksprojects\WhileTheLab3\WhileTheLab3\bin\Debug\WhileTheLab3.exe.config
+D:\VScsharpiksprojects\WhileTheLab3\WhileTheLab3\bin\Debug\WhileTheLab3.exe
+D:\VScsharpiksprojects\WhileTheLab3\WhileTheLab3\bin\Debug\WhileTheLab3.pdb
+D:\VScsharpiksprojects\WhileTheLab3\WhileTheLab3\obj\Debug\WhileTheLab3.csproj.AssemblyReference.cache
+D:\VScsharpiksprojects\WhileTheLab3\WhileTheLab3\obj\Debug\WhileTheLab3.csproj.CoreCompileInputs.cache
+D:\VScsharpiksprojects\WhileTheLab3\WhileTheLab3\obj\Debug\WhileTheLab3.exe
+D:\VScsharpiksprojects\WhileTheLab3\WhileTheLab3\obj\Debug\WhileTheLab3.pdb
